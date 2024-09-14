@@ -161,12 +161,20 @@ h6 {
   border-right: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
 }
 
+/* .profile-img{
+  height: 13rem;
+  width: 10rem;
+  overflow: hidden;
+  margin: auto;
+} */
+
 .header .profile-img img {
   margin: 15px auto;
   display: block;
   width: 10rem;
   height: 13rem;
-  border: 1px solid color-mix(in srgb, var(--default-color), transparent 85%);
+  /* border: 1px solid color-mix(in srgb, var(--default-color), transparent 85%); */
+  /* border: 3px solid; */
 }
 
 .header .logo {
@@ -667,7 +675,7 @@ section,
 
 .img-fluid{
   border-radius: 1rem ;
-  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.705) ;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.479) ;
 }
 
 /*--------------------------------------------------------------
